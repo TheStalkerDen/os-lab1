@@ -1,0 +1,8 @@
+interactive_time = 8
+background_time = 2
+rr_qwant = 4
+1 b 0 5
+2 i 1 10
+3 b 8 3
+4 i 10 25
+5 b 23 5
